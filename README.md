@@ -30,6 +30,9 @@ Coding coding.
 3. sync changes
 
 + LÀM VIỆC GIT VỚI TEAM:
+ - LEADER: Set up môi trường.
+  
+ - CÁC THÀNH VIÊN PHẢI CLONE VỀ ĐỂ LÀM VIỆC.
 
  - ĐẨY CODE MỚI SANG NHÁNH KHÁC
 
