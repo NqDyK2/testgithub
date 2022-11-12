@@ -44,3 +44,8 @@ Coding coding.
  3. Sau khi tạo pull request xong đẩy sang trang tiếp theo thì không được merge luôn mà công việc merge là của leader
     a. Thành viên: tắt git 
     b. Lead: check commits check files change, check sản phẩm trên nhánh muốn merge.
+
+
+- CODE CHỨC NĂNG MỚI:
+
+CODE MỚI CODE MỚI CODE MỚI.
