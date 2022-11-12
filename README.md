@@ -52,3 +52,7 @@ CODE MỚI CODE MỚI CODE MỚI.
      - TẠO NHÁNH MỚI TỪ DEV VÀ CODE CHỨC NĂNG.
 
      NOTE: LUÔN PHẢI TẠO NHÁNH MỚI TỪ (ORIGIN/DEV).
+
+    ABCXYZ
+    123456
+    QWERTY
