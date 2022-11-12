@@ -32,3 +32,15 @@ Coding coding.
 + LÀM VIỆC GIT VỚI TEAM:
 
  - ĐẨY CODE MỚI SANG NHÁNH KHÁC
+
+ 1. compare & pull request
+
+ 2. base và compare
+
+ Base: Nơi nhận code mới.
+
+ Compare: là nơi chứa code mới mà mình vừa code xong 
+
+ 3. Sau khi tạo pull request xong đẩy sang trang tiếp theo thì không được merge luôn mà công việc merge là của leader
+    a. Thành viên: tắt git 
+    b. Lead: check commits check files change, check sản phẩm trên nhánh muốn merge.
