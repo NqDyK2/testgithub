@@ -1,5 +1,10 @@
 Coding coding.
 
+1. origin: origin/main
+2. feat- feature: feat/name: feat/addproduct 
+3. fix: sửa code - báo hiệu cho người khác biết là nhánh này là sửa bug của code cũ fix/bugaddproduct
+4. refactor: sửa code (không phải để sửa bug mà để thay đổi code) refactor/...
+
 - tạo kho lưu trữ mới.
 
 1. git init 
@@ -14,7 +19,7 @@ Coding coding.
 
 6. git remote add origin https://github.com/NqDyK2/testgithub.git
 
-7. git push -u origin main
+7. git push -u origin main 
 
 - Code tiếp dự án và đẩy lên.
 
