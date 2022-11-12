@@ -29,3 +29,6 @@ Coding coding.
 
 3. sync changes
 
++ LÀM VIỆC GIT VỚI TEAM:
+
+ - ĐẨY CODE MỚI SANG NHÁNH KHÁC
