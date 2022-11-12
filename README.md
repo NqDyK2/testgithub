@@ -30,10 +30,11 @@ Coding coding.
 3. sync changes
 
 + LÀM VIỆC GIT VỚI TEAM:
+
  - LEADER: Set up môi trường.
   
  - CÁC THÀNH VIÊN PHẢI CLONE VỀ ĐỂ LÀM VIỆC. clone bằng cách: git clone URLGIT.
-
+ 
  - ĐẨY CODE MỚI SANG NHÁNH KHÁC
 
  1. compare & pull request
@@ -51,10 +52,11 @@ Coding coding.
 
 - CODE CHỨC NĂNG MỚI:
 
+    1. Phải pull code mới nhất về (Lấy code mới nhất). (git pull origin develop)
+    2. Pull về xong thì phải checkout sang nhánh khác xong mới được code chức năng mới.
+
 CODE MỚI CODE MỚI CODE MỚI.
      - TẠO NHÁNH MỚI TỪ DEV VÀ CODE CHỨC NĂNG.
-
-     - CODE MỚI CODE MỚI CODE MỚI.
 
      NOTE: LUÔN PHẢI TẠO NHÁNH MỚI TỪ (ORIGIN/DEV).
 
