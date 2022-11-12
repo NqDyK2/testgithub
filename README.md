@@ -29,6 +29,3 @@ Coding coding.
 
 3. sync changes
 
-1. 
-123
-code mới 
