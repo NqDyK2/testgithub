@@ -18,5 +18,12 @@ Coding coding.
 
 - Code tiếp dự án và đẩy lên.
 
+1. stage all changes
+
+2. viết mess và commit 
+
+3. sync changes
+
+1. 
 123
 code mới 
