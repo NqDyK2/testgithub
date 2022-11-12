@@ -53,6 +53,4 @@ CODE MỚI CODE MỚI CODE MỚI.
 
      NOTE: LUÔN PHẢI TẠO NHÁNH MỚI TỪ (ORIGIN/DEV).
 
-    ABCXYZ
-    123456
-    QWERTY
+
