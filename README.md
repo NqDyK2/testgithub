@@ -51,6 +51,8 @@ Coding coding.
 CODE MỚI CODE MỚI CODE MỚI.
      - TẠO NHÁNH MỚI TỪ DEV VÀ CODE CHỨC NĂNG.
 
+     - CODE MỚI CODE MỚI CODE MỚI.
+
      NOTE: LUÔN PHẢI TẠO NHÁNH MỚI TỪ (ORIGIN/DEV).
 
 
