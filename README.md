@@ -32,7 +32,7 @@ Coding coding.
 + LÀM VIỆC GIT VỚI TEAM:
  - LEADER: Set up môi trường.
   
- - CÁC THÀNH VIÊN PHẢI CLONE VỀ ĐỂ LÀM VIỆC.
+ - CÁC THÀNH VIÊN PHẢI CLONE VỀ ĐỂ LÀM VIỆC. clone bằng cách: git clone URLGIT.
 
  - ĐẨY CODE MỚI SANG NHÁNH KHÁC
 
